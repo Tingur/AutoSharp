@@ -1,0 +1,2 @@
+C:\Users\Alexandre\Downloads\Experimental-master\AutoSharp\obj\Release\AutoSharp.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Downloads\AutoSharp\obj\Release\AutoSharp.csprojResolveAssemblyReference.cache
